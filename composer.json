@@ -1,0 +1,22 @@
+{
+    "name": "Jugid/EzCLI",
+    "description": "Create your own simple CLI in PHP",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gidel Julien",
+            "email": "gidjulien@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Interstellar\\": "src"
+        }
+    }
+
+}
