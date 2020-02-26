@@ -1,5 +1,5 @@
 {
-    "name": "Jugid/EzCLI",
+    "name": "Jugid/ez-cli",
     "description": "Create your own simple CLI in PHP",
     "type": "project",
     "require-dev": {
