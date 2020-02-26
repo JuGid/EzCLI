@@ -2,6 +2,7 @@
     "name": "jugid/ez-cli",
     "description": "Create your own simple CLI in PHP",
     "type": "library",
+    "version":"0.0.1",
     "require-dev": {
         "phpunit/phpunit": "^9.0"
     },
