@@ -5,9 +5,9 @@
 */
 require_once __DIR__ . '/vendor/autoload.php';
 
-use Interstellar\Console\Console;
-use Interstellar\Console\Command;
-use Interstellar\Console\MyAction;
+use ezcli\Console\Console;
+use ezcli\Console\Command;
+use ezcli\Console\MyAction;
 
 $console = new Console();
 $console->createCommand('example', new MyAction())

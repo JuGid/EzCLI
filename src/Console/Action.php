@@ -1,6 +1,6 @@
 <?php
 
-namespace Interstellar\Console;
+namespace ezcli\Console;
 
 /**
 * @author Julien GIDEL

@@ -1,9 +1,9 @@
 <?php
 
-namespace Interstellar\Console;
+namespace ezcli\Console;
 
-use Interstellar\Console\Command;
-use Interstellar\Console\Help;
+use ezcli\Console\Command;
+use ezcli\Console\Help;
 /**
 * @author Julien GIDEL
 */

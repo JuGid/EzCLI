@@ -1,8 +1,8 @@
 <?php
 
-namespace Interstellar\Console;
+namespace ezcli\Console;
 
-use Interstellar\Console\Action;
+use ezcli\Console\Action;
 
 class Help extends Action
 {

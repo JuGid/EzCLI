@@ -15,7 +15,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Interstellar\\": "src"
+            "ezcli\\": "src"
         }
     }
 
